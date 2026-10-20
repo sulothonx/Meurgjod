@@ -1,0 +1,21 @@
+{
+  "short_name": "มรึงจด",
+  "name": "มรึงจด — ระบบจัดการเงินคู่และสุขภาพ",
+  "icons": [
+    {
+      "src": "/assets/nong-jod.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/nong-jod.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#E0F7FF",
+  "theme_color": "#7DD3FC",
+  "display": "standalone",
+  "orientation": "portrait"
+}
